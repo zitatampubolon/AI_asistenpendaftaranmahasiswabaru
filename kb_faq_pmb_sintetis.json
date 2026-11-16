@@ -1,0 +1,32 @@
+[
+  {
+    "kb_id": "KB-01",
+    "intent": "Jalur_Seleksi",
+    "judul": "Jalur Masuk PMB (Simulasi Akademik)",
+    "konten": "[SIMULASI] Jalur PMB terdiri dari: (1) Jalur Prestasi Rapor (sem. 1-5), (2) Jalur Skor UTBK, (3) Jalur Ujian Tulis Berbasis Komputer (UTBK-Mandiri), dan (4) Jalur Prestasi Non-Akademik/Tahfidz."
+  },
+  {
+    "kb_id": "KB-02",
+    "intent": "Biaya_dan_UKT",
+    "judul": "Biaya Pendaftaran & UKT (Simulasi Akademik)",
+    "konten": "[SIMULASI] Biaya formulir pendaftaran Rp250.000 (2 pilihan prodi). UKT dikelompokkan dalam 6 kategori berdasarkan verifikasi ekonomi keluarga, dibayar via Virtual Account resmi."
+  },
+  {
+    "kb_id": "KB-03",
+    "intent": "Beasiswa",
+    "judul": "Program Beasiswa Mahasiswa Baru (Simulasi Akademik)",
+    "konten": "[SIMULASI] Tersedia Beasiswa KIP-Kuliah, Beasiswa Prestasi Juara Nasional/Provinsi (potongan UKT 50%-100%), dan Beasiswa Bantuan Ekonomi Yayasan dengan syarat IPK minimal 3.25."
+  },
+  {
+    "kb_id": "KB-04",
+    "intent": "Jadwal_dan_Alur",
+    "judul": "Alur & Jadwal Pendaftaran (Simulasi Akademik)",
+    "konten": "[SIMULASI] Alur PMB: Buat Akun -> Bayar VA -> Isi Biodata & Unggah Berkas -> Finalisasi -> Cetak Kartu Ujian -> Seleksi -> Pengumuman -> Daftar Ulang."
+  },
+  {
+    "kb_id": "KB-05",
+    "intent": "Syarat_Berkas",
+    "judul": "Persyaratan Dokumen PMB (Simulasi Akademik)",
+    "konten": "[SIMULASI] Berkas wajib: Scan KTP/Kartu Pelajar, Kartu Keluarga, Pas Foto latar merah (JPG max 500KB), Rapor sem. 1-5 atau Ijazah/SKL (PDF max 2MB), dan Surat Bebas Buta Warna untuk prodi tertentu."
+  }
+]
