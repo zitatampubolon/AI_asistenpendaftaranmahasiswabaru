@@ -1,0 +1,101 @@
+id,pertanyaan,intent
+PMB-001,Apa saja jalur pendaftaran mahasiswa baru yang dibuka tahun ini?,Jalur_Seleksi
+PMB-002,Bagaimana ketentuan masuk lewat jalur prestasi nilai rapor semester 1 sampai 5?,Jalur_Seleksi
+PMB-003,Apakah tersedia jalur seleksi berbasis nilai UTBK SNBT tanpa tes ulang?,Jalur_Seleksi
+PMB-004,Kapan pembukaan jalur ujian tulis mandiri gelombang kedua?,Jalur_Seleksi
+PMB-005,Bisakah lulusan SMK mendaftar di jalur prestasi akademik?,Jalur_Seleksi
+PMB-006,Apa perbedaan jalur reguler gelombang satu dan jalur prestasi non-akademik?,Jalur_Seleksi
+PMB-007,Apakah jalur undangan khusus memerlukan rekomendasi dari kepala sekolah?,Jalur_Seleksi
+PMB-008,Bagaimana mekanisme seleksi untuk jalur alih jenjang D3 ke S1?,Jalur_Seleksi
+PMB-009,Apakah ada jalur khusus tahfidz atau prestasi olahraga tingkat provinsi?,Jalur_Seleksi
+PMB-010,Bolehkah peserta yang tidak lolos jalur rapor mendaftar lagi di jalur tes komputer?,Jalur_Seleksi
+PMB-011,Berapa pilihan program studi yang bisa dipilih pada jalur mandiri?,Jalur_Seleksi
+PMB-012,Apakah jalur kelas karyawan dibuka untuk semua jurusan teknik?,Jalur_Seleksi
+PMB-013,Bagaimana syarat nilai rata-rata minimal untuk mendaftar jalur tanpa tes?,Jalur_Seleksi
+PMB-014,Apakah lulusan paket C dapat mengikuti seleksi penerimaan jalur reguler?,Jalur_Seleksi
+PMB-015,Jalur masuk apa yang paling cocok jika saya punya sertifikat juara olimpiade sains?,Jalur_Seleksi
+PMB-016,Apakah seleksi jalur wawancara dilakukan secara daring atau datang ke kampus?,Jalur_Seleksi
+PMB-017,Kapan jalur pendaftaran gelombang tiga dibuka untuk program studi manajemen?,Jalur_Seleksi
+PMB-018,Apakah jalur pindahan dari universitas lain dibuka pada semester ganjil ini?,Jalur_Seleksi
+PMB-019,Bagaimana sistem penilaian pada jalur seleksi berbasis portofolio desain?,Jalur_Seleksi
+PMB-020,Apakah ada batasan tahun lulus SMA untuk mendaftar jalur tes reguler?,Jalur_Seleksi
+PMB-021,Berapa biaya formulir pendaftaran untuk satu pilihan program studi?,Biaya_dan_UKT
+PMB-022,Bagaimana rincian uang kuliah tunggal UKT per semester untuk fakultas ilmu komputer?,Biaya_dan_UKT
+PMB-023,Apakah ada biaya sumbangan pengembangan institusi atau uang pangkal di jalur mandiri?,Biaya_dan_UKT
+PMB-024,Bisakah pembayaran biaya registrasi ulang dicicil dalam dua tahap?,Biaya_dan_UKT
+PMB-025,Metode pembayaran bank apa saja yang didukung untuk membayar virtual account pendaftaran?,Biaya_dan_UKT
+PMB-026,Apakah biaya pendaftaran yang sudah dibayar bisa ditarik kembali jika mengundurkan diri?,Biaya_dan_UKT
+PMB-027,Berapa estimasi biaya praktikum dan laboratorium untuk mahasiswa baru informatika?,Biaya_dan_UKT
+PMB-028,Bagaimana cara mengajukan penurunan golongan UKT jika penghasilan orang tua menurun?,Biaya_dan_UKT
+PMB-029,Apakah ada potongan biaya gedung bagi calon mahasiswa yang melunasi di awal?,Biaya_dan_UKT
+PMB-030,Berapa total biaya daftar ulang setelah dinyatakan lulus seleksi?,Biaya_dan_UKT
+PMB-031,Apakah biaya kuliah sudah termasuk jaket almamater dan asuransi mahasiswa?,Biaya_dan_UKT
+PMB-032,Bagaimana simulasi penetapan kelompok UKT berdasarkan slip gaji orang tua?,Biaya_dan_UKT
+PMB-033,Apakah mahasiswa kelas sore dikenakan tarif SPP yang berbeda dari kelas pagi?,Biaya_dan_UKT
+PMB-034,Kapan batas akhir pelunasan biaya semester pertama bagi mahasiswa baru?,Biaya_dan_UKT
+PMB-035,Apakah ada denda keterlambatan jika membayar uang kuliah melewati tenggat?,Biaya_dan_UKT
+PMB-036,Berapa biaya tes kesehatan dan tes bebas narkoba saat registrasi ulang?,Biaya_dan_UKT
+PMB-037,Apakah biaya pendaftaran jalur rapor berbeda dengan jalur ujian tulis?,Biaya_dan_UKT
+PMB-038,Bagaimana prosedur konfirmasi jika pembayaran virtual account gagal terverifikasi?,Biaya_dan_UKT
+PMB-039,Berapa kisaran UKT terendah dan tertinggi untuk program studi sistem informasi?,Biaya_dan_UKT
+PMB-040,Apakah ada keringanan biaya kuliah bagi dua bersaudara yang kuliah di kampus sama?,Biaya_dan_UKT
+PMB-041,Apa saja program beasiswa yang tersedia untuk calon mahasiswa baru?,Beasiswa
+PMB-042,Bagaimana syarat mendaftar beasiswa KIP Kuliah di kampus ini?,Beasiswa
+PMB-043,Apakah tersedia beasiswa potongan SPP 100 persen untuk peraih juara nasional?,Beasiswa
+PMB-044,Kapan jadwal pendaftaran dan wawancara seleksi beasiswa yayasan?,Beasiswa
+PMB-045,Apakah penerima beasiswa prestasi wajib mempertahankan IPK minimal setiap semester?,Beasiswa
+PMB-046,Bisakah mahasiswa jalur mandiri mengajukan beasiswa bantuan biaya pendidikan?,Beasiswa
+PMB-047,Dokumen ekonomi apa saja yang diperlukan untuk melamar beasiswa kurang mampu?,Beasiswa
+PMB-048,Apakah kampus menyediakan beasiswa hafalan Al-Quran minimal 10 juz?,Beasiswa
+PMB-049,Berapa kuota penerima beasiswa unggulan daerah pada tahun akademik ini?,Beasiswa
+PMB-050,Apakah beasiswa penuh mencakup biaya hidup bulanan selain pembebasan UKT?,Beasiswa
+PMB-051,Bagaimana cara menggabungkan akun KIP Kuliah dengan portal pendaftaran kampus?,Beasiswa
+PMB-052,Apakah ada beasiswa khusus bagi anak guru atau tenaga pendidik?,Beasiswa
+PMB-053,Kapan pengumuman hasil seleksi penerima beasiswa calon mahasiswa baru dirilis?,Beasiswa
+PMB-054,Jika gagal seleksi beasiswa penuh apakah otomatis dialihkan ke jalur reguler?,Beasiswa
+PMB-055,Apakah mahasiswa yang sudah menerima beasiswa pemerintah boleh mendaftar beasiswa internal?,Beasiswa
+PMB-056,Bagaimana tahapan survei rumah bagi pelamar beasiswa afirmasi ekonomi?,Beasiswa
+PMB-057,Apakah sertifikat lomba tingkat kabupaten bisa dipakai untuk beasiswa prestasi?,Beasiswa
+PMB-058,Berapa lama durasi masa berlaku beasiswa prestasi akademik sejak semester satu?,Beasiswa
+PMB-059,Apakah ada program beasiswa ikatan dinas atau kerja sama mitra industri?,Beasiswa
+PMB-060,Bagaimana syarat perpanjangan beasiswa prestasi pada semester ketiga?,Beasiswa
+PMB-061,Kapan batas akhir penutupan pendaftaran online gelombang pertama?,Jadwal_dan_Alur
+PMB-062,Bagaimana urutan langkah pendaftaran akun di portal PMB dari awal sampai cetak kartu?,Jadwal_dan_Alur
+PMB-063,Tanggal berapa pelaksanaan ujian seleksi berbasis komputer dilaksanakan?,Jadwal_dan_Alur
+PMB-064,Kapan pengumuman kelulusan seleksi gelombang kedua dapat dilihat di portal?,Jadwal_dan_Alur
+PMB-065,Berapa lama jeda waktu antara pendaftaran online dan verifikasi berkas oleh panitia?,Jadwal_dan_Alur
+PMB-066,Kapan jadwal kegiatan pengenalan kehidupan kampus bagi mahasiswa baru PKKMB?,Jadwal_dan_Alur
+PMB-067,Bagaimana alur pembuatan akun hingga mendapatkan nomor peserta ujian?,Jadwal_dan_Alur
+PMB-068,Tanggal berapa batas akhir pengisian biodata dan penguncian data finalisasi?,Jadwal_dan_Alur
+PMB-069,Kapan awal perkuliahan semester ganjil dimulai untuk angkatan baru?,Jadwal_dan_Alur
+PMB-070,Bagaimana prosedur cetak ulang kartu tanda peserta ujian jika file terhapus?,Jadwal_dan_Alur
+PMB-071,Kapan jadwal sesi wawancara daring untuk pelamar program studi kedokteran dan kesehatan?,Jadwal_dan_Alur
+PMB-072,Berapa hari masa sanggah atau konfirmasi ulang setelah pengumuman kelulusan?,Jadwal_dan_Alur
+PMB-073,Bagaimana alur lapor diri dan pengambilan NIM bagi peserta yang dinyatakan lulus?,Jadwal_dan_Alur
+PMB-074,Jam berapa portal pendaftaran ditutup pada hari terakhir gelombang pendaftaran?,Jadwal_dan_Alur
+PMB-075,Kapan jadwal tes kesehatan dan verifikasi berkas fisik di kampus?,Jadwal_dan_Alur
+PMB-076,Apakah alur pendaftaran untuk calon mahasiswa luar kota sepenuhnya online?,Jadwal_dan_Alur
+PMB-077,Kapan jadwal pembagian kelas dan pengisian KRS pertama mahasiswa baru?,Jadwal_dan_Alur
+PMB-078,Bagaimana tahapan perbaikan data jika salah memilih program studi sebelum finalisasi?,Jadwal_dan_Alur
+PMB-079,Tanggal berapa batas akhir unggah nilai rapor untuk seleksi gelombang satu?,Jadwal_dan_Alur
+PMB-080,Kapan jadwal pengarahan teknis sebelum ujian seleksi online dimulai?,Jadwal_dan_Alur
+PMB-081,Dokumen apa saja yang wajib diunggah saat membuat akun pendaftaran baru?,Syarat_Berkas
+PMB-082,Apakah surat keterangan lulus SKL bisa menggantikan ijazah yang belum terbit?,Syarat_Berkas
+PMB-083,Berapa ukuran maksimal file PDF untuk unggahan scan rapor semester 1 sampai 5?,Syarat_Berkas
+PMB-084,Apakah pas foto pendaftaran harus menggunakan latar belakang warna merah?,Syarat_Berkas
+PMB-085,Perlukah scan kartu keluarga dan akta kelahiran dilegalisir terlebih dahulu?,Syarat_Berkas
+PMB-086,Apakah program studi teknik informatika mewajibkan surat keterangan tidak buta warna?,Syarat_Berkas
+PMB-087,Bagaimana format surat pernyataan bebas narkoba yang diminta saat daftar ulang?,Syarat_Berkas
+PMB-088,Apakah berkas rapor yang diunggah harus mencakup halaman identitas siswa?,Syarat_Berkas
+PMB-089,Dokumen tambahan apa yang dibutuhkan bagi pelamar lulusan sekolah luar negeri?,Syarat_Berkas
+PMB-090,Apakah sertifikat prestasi non-akademik harus disahkan oleh pihak sekolah?,Syarat_Berkas
+PMB-091,Bagaimana ketentuan format file dan resolusi foto formal untuk kartu mahasiswa?,Syarat_Berkas
+PMB-092,Apakah calon mahasiswa di bawah umur 17 tahun boleh memakai kartu pelajar pengganti KTP?,Syarat_Berkas
+PMB-093,Berkas apa yang harus dibawa saat verifikasi dokumen fisik di loket akademik?,Syarat_Berkas
+PMB-094,Apakah surat keterangan sehat harus berasal dari rumah sakit pemerintah atau puskesmas?,Syarat_Berkas
+PMB-095,Bagaimana jika ada perbedaan penulisan nama antara ijazah SMP dan kartu keluarga?,Syarat_Berkas
+PMB-096,Apakah transkrip nilai D3 wajib dilegalisir basah untuk pendaftaran jalur alih jenjang?,Syarat_Berkas
+PMB-097,Berapa jumlah lembar fotokopi berkas yang perlu disiapkan saat registrasi ulang?,Syarat_Berkas
+PMB-098,Apakah surat izin orang tua diperlukan untuk pendaftaran kelas asrama?,Syarat_Berkas
+PMB-099,Bagaimana cara menggabungkan beberapa halaman rapor menjadi satu berkas PDF?,Syarat_Berkas
+PMB-100,Apakah berkas slip gaji orang tua wajib dilampirkan jika tidak mengajukan beasiswa?,Syarat_Berkas
